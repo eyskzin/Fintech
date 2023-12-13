@@ -1,0 +1,23 @@
+.estilo{
+    background-color: #030303;
+}
+.estilo2{
+    background-color: #eeeded;
+}
+.estilo3{
+    background-color: #030303;
+    color: #eeeded;
+}
+
+
+@media (max-width: 567px ) {
+    #cartao1{
+        margin-bottom: 16px;
+    }
+    #cartao2{
+        margin-bottom: 16px;
+    }
+    #cartao3{
+        margin-bottom: 16px;
+    }
+}
